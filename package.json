@@ -1,0 +1,22 @@
+{
+  "name": "telnet-notes",
+  "version": "1.0.0",
+  "description": "> Telnet notes.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afeiship/telnet-notes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/afeiship/telnet-notes/issues"
+  },
+  "homepage": "https://github.com/afeiship/telnet-notes#readme"
+}
